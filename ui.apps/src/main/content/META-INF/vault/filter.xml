@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-aws-rekognition-classification-api-integrations"/>
+
+    <filter root="/apps/sling/servlet/errorhandler"/>
+
+
+    <filter root="/conf/aem-aws-rekognition-classification-api-integrations" mode="merge"/>
+
+
+    <filter root="/etc/clientlibs/aem-aws-rekognition-classification-api-integrations"/>
+
+
+</workspaceFilter>
